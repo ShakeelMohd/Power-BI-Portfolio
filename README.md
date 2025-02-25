@@ -33,7 +33,7 @@ Superstore Sales is a data visualization and analysis project for exploring and 
 
 
 
-## [Project 3: Human Resource Dashboard]()
+## [Project 3: Human Resource Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU0NGYxMWQtYzkwMS00NDVhLWE1OGMtMDBiYWI3Y2FhMzEyIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 ### Preview
 
@@ -51,7 +51,7 @@ Pizza Sales Analysis has a comprehensive year's worth of sales data from a ficti
 ##### Preview
 
 
-## [Project 6: Employee Distribution]()
+## [Project 6: Employee Distribution](https://app.powerbi.com/view?r=eyJrIjoiMTU3NDEwZWMtY2FjNC00ZmVlLWFlNWUtMGUyNDUzYjRkOTI2IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Exploring a treasure trove of insights and captivating visualizations drawn from a vast HR dataset covering 2000 to 2020, featuring over 22,000 records. Painstakingly curated and analyzed using PostgreSQL, this powerful dashboard showcases its findings through the elegance of Power BI. Unravel the secrets of the organization's workforce with answers to vital HR inquiries. Discover the gender and race/ethnicity breakdown, age distribution, headquarters vs. remote locations, average employment length for terminated employees, gender distribution across departments and job titles, job title distribution, highest turnover department, state-wise employee distribution, and changes in employee count over time based on hire and termination dates. Experience a profound understanding of employee tenures across departments. Employee-Distribution delivers valuable HR insights at your fingertips.
 
