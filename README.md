@@ -19,13 +19,13 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
 
 ---
-## [Project 1: Sales Dashboard]()
+## [Project 1: Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjMzM2VhMjEtNGE5Yi00ZWJjLTg3ZTctM2ZmY2ZjMTViYTQ5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
 ## Preview
 
 
-## [Project 2: Superstore Sales Dashboard]()
+## [Project 2: Superstore Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDAwZGViZmItZGI2Ni00YThhLTk3ZDItZTE1NDM5MDU1ZWM2IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Superstore Sales is a data visualization and analysis project for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
 ######
@@ -39,7 +39,7 @@ Superstore Sales is a data visualization and analysis project for exploring and 
 
 
 
-## [Project 4: Sales Target Dashboard)]()
+## [Project 4: Supply Chain Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiOTA5Y2E5MTQtN2QxZi00ZjgxLWIzMmItOTY0OTU0N2UwZGFhIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 ### Preview
 
