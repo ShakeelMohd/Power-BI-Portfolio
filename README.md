@@ -21,34 +21,47 @@ I am a passionate data enthusiast with a strong background in Power BI. I have e
 ---
 ## [Project 1: Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjMzM2VhMjEtNGE5Yi00ZWJjLTg3ZTctM2ZmY2ZjMTViYTQ5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
-## Preview
+Sales Dashboard is a data visualization and analysis project for exploring and analyzing sales data. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to monitor, analyze, and optimize sales performance in a visually appealing and actionable way. 
+Purpose:
+•	Provide a centralized view of sales metrics and trends.
+•	Identify opportunities to increase revenue and address performance gaps.
+•	Enable data-driven decision-making for sales strategies.
+######
 
 
 ## [Project 2: Superstore Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDAwZGViZmItZGI2Ni00YThhLTk3ZDItZTE1NDM5MDU1ZWM2IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
-Superstore Sales is a data visualization and analysis project for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
+Superstore Sales is a data visualization and analysis project for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights and provides a detailed overview of sales performance, helping businesses monitor trends, identify opportunities, and optimize their operations.
+Purpose:
+•	Track sales metrics across regions, categories, and time periods.
+•	Identify high-performing products and areas requiring improvement.
+•	Enhance decision-making with data-driven insights.
 ######
-
-
 
 
 ## [Project 3: Human Resource Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjU1NDMwNGMtMTQwNS00ZDYyLWI0NjAtNTE3MzRmM2MxMTlmIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
-### Preview
+Human Resource Dashboard is a data visualization and analysis project for exploring and analyzing Human Resource data. This project aims to provide an easy-to-use interface for users to gain insights and provides detailed overview of Employee performance, Employee Attrition, Employee Demographics etc.
+Purpose:
+•	Provide insights into HR performance and workforce trends.
+•	Support data-driven decision-making.
+•	Improve workforce management, engagement, and productivity.
+######
 
 
-
-## [Project 4: Supply Chain Dashboard)](https://app.powerbi.com/view?r=eyJrIjoiOTA5Y2E5MTQtN2QxZi00ZjgxLWIzMmItOTY0OTU0N2UwZGFhIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
-
-### Preview
-
+## [Project 4: Supply Chain Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTA5Y2E5MTQtN2QxZi00ZjgxLWIzMmItOTY0OTU0N2UwZGFhIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+Supply Chain Dashboard is a data visualization and analysis project for exploring and analyzing Supply Chain operations data. This project aims to provide an easy-to-use interface for users and provides a comprehensive view of supply chain operations, helping organizations monitor and optimize their supply chain performance.
+Purpose:
+•	Visualize supply chain metrics in real time.
+•	Identify bottlenecks and inefficiencies.
+•	Support strategic decision-making to streamline operations.
+######
 
 
 ## [Project 5: Pizza Sales Analysis]()
 
 Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
-##### Preview
+#####
 
 
 ## [Project 6: Employee Distribution](https://app.powerbi.com/view?r=eyJrIjoiMTU3NDEwZWMtY2FjNC00ZmVlLWFlNWUtMGUyNDUzYjRkOTI2IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
