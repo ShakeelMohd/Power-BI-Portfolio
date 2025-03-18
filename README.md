@@ -50,6 +50,7 @@ Purpose:
 
 
 ## [Project 4: Supply Chain Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTA5Y2E5MTQtN2QxZi00ZjgxLWIzMmItOTY0OTU0N2UwZGFhIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+
 Supply Chain Dashboard is a data visualization and analysis project for exploring and analyzing Supply Chain operations data. This project aims to provide an easy-to-use interface for users and provides a comprehensive view of supply chain operations, helping organizations monitor and optimize their supply chain performance.
 Purpose:
 •	Visualize supply chain metrics in real time.
@@ -70,9 +71,13 @@ Exploring a treasure trove of insights and captivating visualizations drawn from
 
 
 
-## [Project 7: Financial Analysis Dashboard]()
+## [Project 7: Customer Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJmMTIwYTgtZDQ4MS00NDE1LThjMjgtZGNmZTZmOWUzNjEzIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
-
+Customer Analysis Dashboard is a data visualization and analysis project for exploring and analyzing Customers data. This project aims to provide an easy-to-use interface for users and provides a comprehensive view of customer segmentation, demographics, and purchasing patterns to help businesses understand and optimize their customer base.
+Purpose:
+Identify customer trends and preferences.
+Segment customers for targeted marketing.
+Improve customer retention and acquisition strategies.
 
 
 ## Author
