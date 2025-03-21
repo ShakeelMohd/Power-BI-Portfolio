@@ -59,9 +59,13 @@ Purpose:
 ######
 
 
-## [Project 5: Pizza Sales Analysis]()
+## [Project 5: Hospital Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGI4MzFiYWEtYTBhMy00M2JiLWJjNTQtZDgxNWFiM2E3OTIxIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
-Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
+Hospital Dashboard is a data visualization and analysis project for exploring and analyzing Hospital operations data. This project aims to provide an easy-to-use interface for users and that provides a centralized platform that tracks and visualizes key metrics to monitor the overall performance and efficiency of hospital operations.
+Purpose:
+•	Provide insights into hospital management, patient care, and operational efficiency.
+•	Help administrators and healthcare professionals make data-driven decisions.
+•	Enhance patient outcomes and optimize resource utilization.
 #####
 
 
