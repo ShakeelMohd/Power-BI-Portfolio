@@ -19,7 +19,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually.
 
 ---
-## [Project 1: Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjMzM2VhMjEtNGE5Yi00ZWJjLTg3ZTctM2ZmY2ZjMTViYTQ5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+## [Project 1: Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmUyMGIzNzAtYjA2Mi00NjUzLWJiYWQtN2RiODc1MmMxODY5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Sales Dashboard is a data visualization and analysis project for exploring and analyzing sales data. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to monitor, analyze, and optimize sales performance in a visually appealing and actionable way. 
 Purpose:
@@ -29,7 +29,7 @@ Purpose:
 ######
 
 
-## [Project 2: Superstore Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDAwZGViZmItZGI2Ni00YThhLTk3ZDItZTE1NDM5MDU1ZWM2IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+## [Project 2: Superstore Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODA1YTRkZTktYzAzYy00NDlmLThlZGYtN2Q1YmU1OTI0MjU5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Superstore Sales is a data visualization and analysis project for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights and provides a detailed overview of sales performance, helping businesses monitor trends, identify opportunities, and optimize their operations.
 Purpose:
@@ -39,7 +39,7 @@ Purpose:
 ######
 
 
-## [Project 3: Human Resource Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjU1NDMwNGMtMTQwNS00ZDYyLWI0NjAtNTE3MzRmM2MxMTlmIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+## [Project 3: Human Resource Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjZjNmIzYzEtOGEyZS00ZWRjLWJlN2YtMzUwYzMyNmEwODgwIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Human Resource Dashboard is a data visualization and analysis project for exploring and analyzing Human Resource data. This project aims to provide an easy-to-use interface for users to gain insights and provides detailed overview of Employee performance, Employee Attrition, Employee Demographics etc.
 Purpose:
@@ -49,7 +49,7 @@ Purpose:
 ######
 
 
-## [Project 4: Supply Chain Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTA5Y2E5MTQtN2QxZi00ZjgxLWIzMmItOTY0OTU0N2UwZGFhIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+## [Project 4: Supply Chain Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGQwYTIzNzktN2EyNS00OWY1LWFhZDYtYzE5OThkN2I5ODBhIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Supply Chain Dashboard is a data visualization and analysis project for exploring and analyzing Supply Chain operations data. This project aims to provide an easy-to-use interface for users and provides a comprehensive view of supply chain operations, helping organizations monitor and optimize their supply chain performance.
 Purpose:
@@ -59,7 +59,7 @@ Purpose:
 ######
 
 
-## [Project 5: Hospital Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGI4MzFiYWEtYTBhMy00M2JiLWJjNTQtZDgxNWFiM2E3OTIxIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+## [Project 5: Hospital Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ0ODY0YmQtMjQ0Ny00OGU5LTk3NTYtZjdlZGUxMTY3ODBiIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Hospital Dashboard is a data visualization and analysis project for exploring and analyzing Hospital operations data. This project aims to provide an easy-to-use interface for users and that provides a centralized platform that tracks and visualizes key metrics to monitor the overall performance and efficiency of hospital operations.
 Purpose:
@@ -75,7 +75,7 @@ Exploring a treasure trove of insights and captivating visualizations drawn from
 
 
 
-## [Project 7: Customer Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTJmMTIwYTgtZDQ4MS00NDE1LThjMjgtZGNmZTZmOWUzNjEzIiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
+## [Project 7: Customer Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFiNDFlNjktMGEyZi00ZGI4LWJmY2UtMjQ2ZWViZmE4MWQ5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
 
 Customer Analysis Dashboard is a data visualization and analysis project for exploring and analyzing Customers data. This project aims to provide an easy-to-use interface for users and provides a comprehensive view of customer segmentation, demographics, and purchasing patterns to help businesses understand and optimize their customer base.
 Purpose:
