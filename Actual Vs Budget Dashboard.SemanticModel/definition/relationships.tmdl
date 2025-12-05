@@ -1,0 +1,4 @@
+relationship c0cad734-55d8-553b-40ae-41d340e4e1fe
+	fromColumn: Data.Month_End
+	toColumn: DateTable.Date
+

@@ -1,0 +1,74 @@
+table Data
+	lineageTag: beb13904-f3d0-462c-a045-bae75d79fe9a
+
+	column Month_End
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: f2d82f3e-7d1e-4d05-8a83-29e12b5d32ae
+		summarizeBy: none
+		sourceColumn: Month_End
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Project_ID
+		dataType: int64
+		formatString: 0
+		lineageTag: a4179788-3d1b-4a70-b7a8-c013b3aede23
+		summarizeBy: count
+		sourceColumn: Project_ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Income_Budget
+		dataType: int64
+		formatString: 0
+		lineageTag: 3d684d83-c48e-4274-85eb-bb750691a3e4
+		summarizeBy: sum
+		sourceColumn: Income_Budget
+
+		annotation SummarizationSetBy = Automatic
+
+	column Income_Actual
+		dataType: int64
+		formatString: 0
+		lineageTag: 0b23fb1c-7ff9-422c-8040-6a423ce0e46c
+		summarizeBy: sum
+		sourceColumn: Income_Actual
+
+		annotation SummarizationSetBy = Automatic
+
+	column Expense_Budget
+		dataType: int64
+		formatString: 0
+		lineageTag: 3b212782-c756-4384-ac6e-1ebf37772808
+		summarizeBy: sum
+		sourceColumn: Expense_Budget
+
+		annotation SummarizationSetBy = Automatic
+
+	column Expense_Actual
+		dataType: int64
+		formatString: \$#,0.###############;(\$#,0.###############);\$#,0.###############
+		lineageTag: c7f07295-a8fb-453c-9277-91fe966fb87f
+		summarizeBy: sum
+		sourceColumn: Expense_Actual
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Data = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(File.Contents("C:\Users\shake\Downloads\Actual vs Budget-20250506T203331Z-001\Actual vs Budget\Project_Monthly_Performance_2019_2024.xlsx"), null, true),
+				    Project_Monthly_Performance_201_Sheet = Source{[Item="Project_Monthly_Performance_201",Kind="Sheet"]}[Data],
+				    #"Promoted Headers" = Table.PromoteHeaders(Project_Monthly_Performance_201_Sheet, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Month_End", type date}, {"Project_ID", Int64.Type}, {"Income_Budget", Int64.Type}, {"Income_Actual", Int64.Type}, {"Expense_Budget", Int64.Type}, {"Expense_Actual", Int64.Type}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Actual Vs Budget Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7a3bb90e-9c2a-4290-8cbb-3799c597c9b7"
+  }
+}
